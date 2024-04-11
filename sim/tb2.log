@@ -1,0 +1,100 @@
+Command: /home/users5/sah6489/526L/Lab8/./simv -l tb2.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Nov 15 10:19 2023
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+All memory successfully initialized
+                   0: Address = 00, Data = xxxxxxxx, OE = 1, CS = 0
+                   2: Address = 01, Data = xxxxxxxx, OE = 1, CS = 0
+                   4: Address = 02, Data = xxxxxxxx, OE = 1, CS = 0
+                   6: Address = 03, Data = xxxxxxxx, OE = 1, CS = 0
+                   8: Address = 04, Data = 01011000, OE = 1, CS = 0
+                  10: Address = 05, Data = 11101101, OE = 1, CS = 0
+                  12: Address = 06, Data = 10110111, OE = 1, CS = 0
+                  14: Address = 07, Data = 00110100, OE = 1, CS = 0
+                  16: Address = 08, Data = 11001001, OE = 1, CS = 0
+                  18: Address = 09, Data = 10001111, OE = 1, CS = 0
+                  20: Address = 0a, Data = 10100000, OE = 1, CS = 0
+                  22: Address = 0b, Data = 10011011, OE = 1, CS = 0
+                  24: Address = 0c, Data = 01100101, OE = 1, CS = 0
+                  26: Address = 0d, Data = 00010001, OE = 1, CS = 0
+                  28: Address = 0e, Data = 00000011, OE = 1, CS = 0
+                  30: Address = 0f, Data = 01001100, OE = 1, CS = 0
+                  32: Address = 10, Data = 11011010, OE = 1, CS = 0
+                  34: Address = 11, Data = 01111110, OE = 1, CS = 0
+                  36: Address = 12, Data = 11110010, OE = 1, CS = 0
+                  38: Address = 13, Data = 00100110, OE = 1, CS = 0
+                  40: Address = 14, Data = 10000110, OE = 1, CS = 0
+                  42: Address = 15, Data = 10010101, OE = 1, CS = 0
+                  44: Address = 16, Data = 11111101, OE = 1, CS = 0
+                  46: Address = 17, Data = 10110001, OE = 1, CS = 0
+                  48: Address = 18, Data = xxxxxxxx, OE = 1, CS = 0
+                  50: Address = 19, Data = xxxxxxxx, OE = 1, CS = 0
+                  52: Address = 1a, Data = xxxxxxxx, OE = 1, CS = 0
+                  54: Address = 1b, Data = xxxxxxxx, OE = 1, CS = 0
+                  56: Address = 1c, Data = 00010010, OE = 1, CS = 0
+                  58: Address = 1d, Data = 10101111, OE = 1, CS = 0
+                  60: Address = 1e, Data = 00110011, OE = 1, CS = 0
+                  62: Address = 1f, Data = xxxxxxxx, OE = 1, CS = 0
+Unspecified Locations
+Address 00, DATA xxxxxxxx
+Address 01, DATA xxxxxxxx
+Address 02, DATA xxxxxxxx
+Address 03, DATA xxxxxxxx
+Address 18, DATA xxxxxxxx
+Address 19, DATA xxxxxxxx
+Address 1a, DATA xxxxxxxx
+Address 1b, DATA xxxxxxxx
+Address 1f, DATA xxxxxxxx
+Scramble Data
+                  64: Address = 10, Data = 01110011, OE = 1, CS = 0
+                  65: Address = 10, Data = 01110011, OE = 1, CS = 0
+                  65: Address = 11, Data = 00111111, OE = 1, CS = 0
+                  66: Address = 11, Data = 00111111, OE = 1, CS = 0
+                  66: Address = 12, Data = 01110101, OE = 1, CS = 0
+                  67: Address = 12, Data = 01110101, OE = 1, CS = 0
+                  67: Address = 13, Data = 00101100, OE = 1, CS = 0
+                  68: Address = 13, Data = 00101100, OE = 1, CS = 0
+                  68: Address = 14, Data = 01101000, OE = 1, CS = 0
+                  69: Address = 14, Data = 01101000, OE = 1, CS = 0
+                  69: Address = 15, Data = 11001001, OE = 1, CS = 0
+                  70: Address = 15, Data = 11001001, OE = 1, CS = 0
+                  70: Address = 16, Data = 11011111, OE = 1, CS = 0
+                  71: Address = 16, Data = 11011111, OE = 1, CS = 0
+All contents of all memory locations
+                  71: Address = 00, Data = xxxxxxxx, OE = 1, CS = 0
+                  73: Address = 01, Data = xxxxxxxx, OE = 1, CS = 0
+                  75: Address = 02, Data = xxxxxxxx, OE = 1, CS = 0
+                  77: Address = 03, Data = xxxxxxxx, OE = 1, CS = 0
+                  79: Address = 04, Data = 01011000, OE = 1, CS = 0
+                  81: Address = 05, Data = 11101101, OE = 1, CS = 0
+                  83: Address = 06, Data = 10110111, OE = 1, CS = 0
+                  85: Address = 07, Data = 00110100, OE = 1, CS = 0
+                  87: Address = 08, Data = 11001001, OE = 1, CS = 0
+                  89: Address = 09, Data = 10001111, OE = 1, CS = 0
+                  91: Address = 0a, Data = 10100000, OE = 1, CS = 0
+                  93: Address = 0b, Data = 10011011, OE = 1, CS = 0
+                  95: Address = 0c, Data = 01100101, OE = 1, CS = 0
+                  97: Address = 0d, Data = 00010001, OE = 1, CS = 0
+                  99: Address = 0e, Data = 00000011, OE = 1, CS = 0
+                 101: Address = 0f, Data = 01001100, OE = 1, CS = 0
+                 103: Address = 10, Data = 01110011, OE = 1, CS = 0
+                 105: Address = 11, Data = 00111111, OE = 1, CS = 0
+                 107: Address = 12, Data = 01110101, OE = 1, CS = 0
+                 109: Address = 13, Data = 00101100, OE = 1, CS = 0
+                 111: Address = 14, Data = 01101000, OE = 1, CS = 0
+                 113: Address = 15, Data = 11001001, OE = 1, CS = 0
+                 115: Address = 16, Data = 11011111, OE = 1, CS = 0
+                 117: Address = 17, Data = 10110001, OE = 1, CS = 0
+                 119: Address = 18, Data = xxxxxxxx, OE = 1, CS = 0
+                 121: Address = 19, Data = xxxxxxxx, OE = 1, CS = 0
+                 123: Address = 1a, Data = xxxxxxxx, OE = 1, CS = 0
+                 125: Address = 1b, Data = xxxxxxxx, OE = 1, CS = 0
+                 127: Address = 1c, Data = 00010010, OE = 1, CS = 0
+                 129: Address = 1d, Data = 10101111, OE = 1, CS = 0
+                 131: Address = 1e, Data = 00110011, OE = 1, CS = 0
+                 133: Address = 1f, Data = xxxxxxxx, OE = 1, CS = 0
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 135 ns
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Wed Nov 15 10:19:14 2023
